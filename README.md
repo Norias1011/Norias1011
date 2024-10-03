@@ -21,7 +21,7 @@ About me
 </h1>
 </div> 
 
-I'm a former international developer with a passion for coding and technology. My academic journey has taken me across borders, earning master's degrees in International Management from prestigious universities in France, Italy, and China. This diverse educational background has equipped me with a global perspective and a knack for adapting to different cultures and environments.
+I'm a former international business developer with a passion for coding and technology. My academic journey has taken me across borders, earning master's degrees in International Management from prestigious universities in France, Italy, and China (ICN, Università di Bologna and ECUST). This diverse educational background has equipped me with a global perspective and a knack for adapting to different cultures and environments.
 
 <div align="left">
 <h1>
