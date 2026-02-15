@@ -1,82 +1,111 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1mbnQ5aGRmYXExcTR1NGRnZGhyY2F1bzB0bXlxbTMzMjhpeXI1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="100"/>
-</div>
-<div id="header" align="center">
-  <a href="www.linkedin.com/in/anthonykinzelin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div align="center">
 
-  <h1>
-  Hi there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Full-Stack+Developer+%7C+AI+Engineer+%7C+Business+%C3%97+Tech)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonykinzelin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthony.kinzelin@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Norias1011&style=flat-square&color=70A5FD)
+
+</div>
+
+---
+
+## About Me
+
+AI / full-stack developer who bridges business and technology. Former international business developer (France, Italy, China) turned software engineer. Currently building AI-powered compliance and automation tools at **MAQIT**. I turn complex business problems into clean, scalable software.
+
+## What I'm Working On
+
+- Building **RAG-based compliance assessment tools** for financial regulation (DORA, NIS2)
+- Designing **multi-agent LangGraph pipelines** for automated due diligence reporting
+- Developing **full-stack AI applications** with React, FastAPI, and vector databases
+
+## Featured Projects
+
+| Project | Stack | Impact |
+|---------|-------|--------|
+| **DORA Gap Assessment (RAG)** | LlamaIndex, Mistral AI, pgvector, BM25 | 3 days &rarr; < 10 min |
+| **Automated EDD Reports** | LangGraph, OpenAI Deep Research, Gemini | 2-4 days &rarr; < 20 min |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B3FA0?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ4Z2gzbzh1amU1d3VnMnJzN3M1aWQ4ejQ3Z2hscGk4Mm9lNGRuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" width="600" height="300"/>
-</div>
 
-<div align="left">
-<h1>
-About me 
-</h1>
-</div> 
+<img src="https://github-readme-stats.vercel.app/api?username=Norias1011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norias1011&layout=compact&theme=tokyonight&hide_border=true&hide=roff,makefile" height="170" alt="Top Languages" />
 
-I'm a former international business developer with a passion for coding and technology. My academic journey has taken me across borders, earning master's degrees in International Management from prestigious universities in France, Italy, and China (ICN, Università di Bologna and ECUST). This diverse educational background has equipped me with a global perspective and a knack for adapting to different cultures and environments.
+[![GitHub Streak](https://streak-stats.demolab.com?user=Norias1011&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<div align="left">
-<h1>
-Current Endeavors
-</h1>
-</div> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Norias1011&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-Currently, I'm embarking on an exciting coding adventure at School 42, where I'm diving deep into the world of programming. My focus lies primarily in languages like C, C++, and Java, honing my skills to become a proficient developer capable of tackling diverse challenges.
-
-<div align="left">
-<h1>
-Areas of Interest
-</h1>
-</div> 
-
-I have a keen interest in cutting-edge technologies, particularly in the realms of Blockchain and cybersecurity. The potential for innovation and the impact these fields have on reshaping industries fascinates me, and I'm eager to explore and contribute to their development.
-
-<div align="left">
-<h1>
-Get in Touch
-</h1>
-</div> 
-
-I'm always open to connecting with fellow developers, discussing ideas, or collaborating on projects. Feel free to reach out to me via email or connect with me on LinkedIn.
-
-Let's code, innovate, and make a difference together!
-
----
-
-### 🛠️ Languages and Tools : 
-
-<div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="Js" alt="Js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### :fire: My Stats :
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Norias1011&theme=highcontrast)](https://git.io/streak-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonykinzelin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthony.kinzelin@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norias1011&theme=highcontrast&hide=roff,makefile)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
