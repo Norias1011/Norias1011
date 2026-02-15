@@ -21,13 +21,6 @@ AI / full-stack developer who bridges business and technology. Former internatio
 - Designing **multi-agent LangGraph pipelines** for automated due diligence reporting
 - Developing **full-stack AI applications** with React, FastAPI, and vector databases
 
-## Featured Projects
-
-| Project | Stack | Impact |
-|---------|-------|--------|
-| **DORA Gap Assessment (RAG)** | LlamaIndex, Mistral AI, pgvector, BM25 | 3 days &rarr; < 10 min |
-| **Automated EDD Reports** | LangGraph, OpenAI Deep Research, Gemini | 2-4 days &rarr; < 20 min |
-
 ---
 
 ## Tech Stack
